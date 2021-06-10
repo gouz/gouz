@@ -2,6 +2,9 @@
 
 🔭 I’m currently working as Founder & CTO @ [lidrea](https://lidrea.fr)
 
+[![gouz's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouz)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **gouz/gouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
