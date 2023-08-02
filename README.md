@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SliDesk, VertJS<br>🤝 I’m looking for help with VertJS<br>🌱 I’m currently learning GreenIT, React, ... in dev we learn every day
+🔭 I’m currently working on SliDesk, VertJS<br>🤝 I’m looking for help with VertJS<br>🌱 I’m currently learning GreenIT, ... in dev we learn every day
 
 
 ## 🌐 Socials:
